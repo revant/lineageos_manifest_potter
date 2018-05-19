@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<project name="revant/android_device_lenovo_manning" path="device/lenovo/manning" remote="github" revision="lineage-15.1" />
-	<project name="revant/android_vendor_lenovo_manning" path="vendor/lenovo/manning" remote="github" revision="master" />
+	<project name="revant/android_vendor_lenovo_manning" path="vendor/lenovo/manning" remote="github" revision="lineage-15.1" />
 	<project name="revant/android_kernel_lenovo_manning" path="kernel/lenovo/manning" remote="github" revision="lineage-15.1" />
 </manifest>
